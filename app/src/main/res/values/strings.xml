@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="text">A cryptocurrency is a digital currency, which is an alternative form of payment created using encryption algorithms. </string>
+    <string name="button">Button</string>
+    <string name="hi_samantha">Hi Samantha</string>
+    <string name="here_are_your_project">Here are your Project</string>
+</resources>
